@@ -2,7 +2,7 @@
 
 Founder & CTO | Blockchain Engineer | Solidity Developer | Python Developer | Technical Team Lead
 
-I have 25+ years of software development experience and 3+ years of blockchain experience.
+I have 29+ years of software development experience and 7+ years of blockchain experience.
 My focus is on Web3, smart contracts, backend systems, trading bots, AI agents, and technical leadership.
 
 ---
