@@ -10,8 +10,8 @@ My focus is on Web3, smart contracts, backend systems, trading bots, AI agents, 
 ## About Me
 
 - 🔭 Founder of Smart Thinking
-- 💼 Blockchain Engineer / Solidity Developer / Technical Team Lead
-- 🧠 Experienced in Python, Solidity, TypeScript, Node.js, Django, PostgreSQL, Docker, and Linux
+- 💼 Blockchain Engineer / Solidity Developer / Technical Team Lead / AI Agent Integration
+- 🧠 Experienced in Python, Solidity, TypeScript, Node.js, Django, SQL, PostgreSQL, Docker, Linux, MicroService, Decentralization
 - 🌍 Based in Calgary, Canada
 - 🚀 Interested in remote roles in Blockchain, FinTech, AI, and Web3
 - 📫 Contact: info@Smarthinking.tech
